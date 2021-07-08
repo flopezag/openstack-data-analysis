@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Image generated
+*.png
+
+# CSV data analysis
+*.csv
+
+# IDE
+.idea
